@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Clique [aqui](TEST.md) para acessar à página do GitHub.
+
 <!--
 
 **Here are some ideas to get you started:**
